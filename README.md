@@ -14,7 +14,7 @@
 
 
   ## 🚀 About Me
-- 🌱 I’m currently learning **react a next.js**
+- 🌱 I’m currently learning **react and next.js**
 
 ## ✨ Fun Fact
 > “A day without code is like a day without sunshine 🌞.”
