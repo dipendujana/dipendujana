@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=fff8&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dipendu+Jana!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=f308a8&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dipendu+Jana!;" />
 </h1>
 <!-- FF5733 -->
   <div align="center">
