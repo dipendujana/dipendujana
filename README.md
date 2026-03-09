@@ -17,6 +17,4 @@
 ## ✨ Fun Fact
 > “A day without code is like a day without sunshine 🌞.”
 
-## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipenduJana&layout=compact&theme=radical)
