@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Dipendu Jana
 
-### `Frontend Developer` | `React.js` | `Next.js` | `UI Enthusiast`
+### `Frontend Developer` | `React.js` | `Next.js`
 
 I turn ideas into interactive, pixel-perfect digital experiences.  
 Passionate about building modern web applications, exploring new technologies, and writing clean, maintainable code.
